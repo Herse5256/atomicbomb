@@ -1,0 +1,2 @@
+# atomicbomb
+Just thinking
